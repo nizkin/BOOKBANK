@@ -67,6 +67,7 @@ h1{
     text-align: center;
     background-image: url(img_3.jpg);
     background-size: cover;
+  background-repeat: no-repeat;
 }
 div{
     height: 100px;
@@ -88,6 +89,7 @@ div{
     background-color: white;
     background-image: url(ka.jpg);
     background-size: cover;
+  background-repeat: no-repeat;
     text-align: center;
     margin-top: 50px;
     padding-top: 20px;
@@ -132,6 +134,7 @@ button{
 .thor{
     background-image: url(newly.jpg);
     background-size: cover;
+  background-repeat: no-repeat;
     
 }
 #jeta{
@@ -172,6 +175,7 @@ font-size: 25px;
 .than{
     background-image: url(SUNSET.png);
     background-size: cover;
+  background-repeat: no-repeat;
 }
 .fo{
     width: 200px;
@@ -189,6 +193,7 @@ font-size: 25px;
 #to{
    background-image: url(hft.jpg);
    background-size: cover;
+  background-repeat: no-repeat;
 }
 .to{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -216,6 +221,7 @@ font-size: 25px;
 #le{
     background-image: url(na.jpg);
     background-size: cover;
+  background-repeat: no-repeat;
 }
 .hu{
     width: 200px;
@@ -238,6 +244,7 @@ font-size: 25px;
 #su{
     background-image: url(bl.png);
     background-size: cover;
+  background-repeat: no-repeat;
 }
 .shu{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -249,6 +256,7 @@ font-size: 25px;
 #she{
     background-image: url(newly.jpg);
     background-size: cover;
+  background-repeat: no-repeat;
    
 }
 .sh{
